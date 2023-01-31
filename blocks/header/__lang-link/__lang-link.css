@@ -1,24 +1,18 @@
 .header__lang-link {
-  position: absolute;
-  top: 72px;
-  right: 48px;
+  padding-top: 19px;
 }
 
 @media (max-width: 1024px) {
   .header__lang-link {
-    top: 78px;
   }
 }
 
 @media (max-width: 768px) {
   .header__lang-link {
-    right: 23px;
   }
 }
 
 @media (max-width: 320px) {
   .header__lang-link {
-    top: 30px;
-    right: 16px;
   }
 }

@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 75px;
+  padding-bottom: 24px;
+}
+.footer__links {
+  display: flex;
+  justify-content: space-between;
+  gap: 19px;
+}
+.footer__link {
+  margin: 0;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 112%;
+  color: #ffffff;
+}
+.footer__copyright {
+  margin: 0;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: right;
+  color: #ffffff;
+  padding-right: 22px;
+}

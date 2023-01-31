@@ -1,20 +1,15 @@
 .header__logo {
   width: 176px;
   height: 52px;
-  position: absolute;
-  top: 50px;
-  left: 48px;
 }
 
 @media (max-width: 1024px) {
   .header__logo {
-    top: 60px;
   }
 }
 
 @media (max-width: 768px) {
   .header__logo {
-    left: 25px;
   }
 }
 
@@ -22,7 +17,5 @@
   .header__logo {
     width: 142px;
     height: 42px;
-    top: 16px;
-    left: 16px;
   }
 }
