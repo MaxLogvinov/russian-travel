@@ -1,0 +1,39 @@
+.places_type_thin {
+  grid-template: 76px 460px /460px 484px;
+}
+
+@media (max-width: 1024px) {
+  .places_type_thin {
+    grid-template: 76px 440px /440px 456px;
+  }
+}
+
+@media (max-width: 930px) {
+  .places_type_thin {
+    grid-template: 46px max-content / 340px 352px;
+  }
+}
+
+@media (max-width: 768px) {
+  .places_type_thin {
+    grid-template: 46px max-content / 340px 352px;
+  }
+}
+
+@media (max-width: 730px) {
+  .places_type_thin {
+    grid-template: 46px max-content / 300px 352px;
+  }
+}
+
+@media (max-width: 685px) {
+  .places_type_thin {
+    grid-template: 36px 47px 320px max-content / 320px;
+  }
+}
+
+@media (max-width: 320px) {
+  .places_type_thin {
+    grid-template: 35px 46px 320px max-content / 320px;
+  }
+}

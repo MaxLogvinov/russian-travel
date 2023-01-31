@@ -1,0 +1,39 @@
+.places__text {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #ffffff;
+}
+
+.places__text:first-child {
+  padding-bottom: 26px;
+}
+
+@media (max-width: 930px) {
+  .places__text {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  .places__text {
+    font-size: 16px;
+  }
+  .places__text:first-child {
+    padding-bottom: 25px;
+  }
+}
+
+@media (max-width: 320px) {
+  .places__text {
+    padding: 0 16px;
+  }
+  .text__letter-spacing_type_plus {
+    letter-spacing: 0.2px;
+    line-height: 162%;
+  }
+  .text__letter-spacing_type_minus {
+    letter-spacing: -0.4px;
+  }
+}
