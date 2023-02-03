@@ -6,6 +6,7 @@
   text-align: center;
   padding-bottom: 32px;
   max-width: 560px;
+  position: relative;
 }
 
 @media (max-width: 767px) {

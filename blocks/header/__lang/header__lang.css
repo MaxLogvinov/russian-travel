@@ -1,21 +1,21 @@
-.header__lang-link {
+.header__lang {
   padding-top: 19px;
 }
 
 @media (max-width: 1279px) {
-  .header__lang-link {
+  .header__lang {
     padding-right: 49px;
   }
 }
 
 @media (max-width: 1023px) {
-  .header__lang-link {
+  .header__lang {
     padding-right: 24px;
   }
 }
 
 @media (max-width: 767px) {
-  .header__lang-link {
+  .header__lang {
     padding-right: 16px;
     padding-top: 14px;
   }
