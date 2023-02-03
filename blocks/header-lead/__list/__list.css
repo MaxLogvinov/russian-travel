@@ -5,16 +5,15 @@
   padding: 33px 0 92px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .header-lead__list {
-    width: 93.8vw;
+    width: 93.8%;
     padding: 31px 16px 92px 24px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .header-lead__list {
-    width: 93.8vw;
     padding-bottom: 64px;
     padding-left: 16px;
     padding-right: 16px;

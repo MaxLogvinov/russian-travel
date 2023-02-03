@@ -10,22 +10,14 @@
   padding-bottom: 64px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
   .header__subtitle {
     padding-bottom: 55px;
+    max-width: 288px;
   }
 }
 
-@media (max-width: 570px) {
-  .header__subtitle {
-    padding-bottom: 47px;
-    font-size: 21px;
-    line-height: 25px;
-    width: 90%;
-  }
-}
-
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .header__subtitle {
     height: 40px;
     padding-bottom: 40px;

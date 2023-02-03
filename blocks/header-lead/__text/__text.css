@@ -6,16 +6,16 @@
   color: #ffffff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .header-lead__text {
-    width: 93.8vw;
-    padding: 0 24px;
+    width: 94.3%;
+    padding-left: 24px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .header-lead__text {
-    width: 93.8vw;
-    padding: 0 16px;
+    width: 93.8%;
+    padding-left: 16px;
   }
 }
