@@ -44,9 +44,12 @@
     row-gap: 32px;
   }
   .places:nth-child(1) {
-    padding-top: 50px;
+    padding-top: 64px;
   }
   .places:nth-child(4) {
-    grid-template: 35px 46px 320px max-content / 320px;
+    grid-template: 34px 46px 320px max-content / 320px;
+  }
+  .places:nth-child(5) {
+    padding-bottom: 28px;
   }
 }

@@ -1,0 +1,31 @@
+.footer__copyright {
+  margin: 0;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: right;
+  color: #ffffff;
+}
+
+@media (max-width: 1279px) {
+  .footer__copyright {
+    padding-right: 50px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .footer__copyright {
+    padding-right: 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 100%;
+    text-align: left;
+    padding-right: 0;
+    padding-left: 16px;
+    padding-top: 48px;
+  }
+}

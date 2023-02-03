@@ -16,6 +16,6 @@
 
 @media (max-width: 767px) {
   .places_type_thin {
-    grid-template: 35px 46px 320px max-content / 320px;
+    grid-template: 34px 46px 320px max-content / 320px;
   }
 }
