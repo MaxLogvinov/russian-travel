@@ -29,11 +29,11 @@
   .places__text {
     padding: 0 16px;
   }
-  .text__letter-spacing_type_plus {
+  .places__letter-spacing_type_plus {
     letter-spacing: 0.2px;
     line-height: 162%;
   }
-  .text__letter-spacing_type_minus {
+  .places__letter-spacing_type_minus {
     letter-spacing: -0.4px;
   }
 }
