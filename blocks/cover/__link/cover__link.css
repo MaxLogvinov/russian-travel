@@ -25,9 +25,5 @@
 .cover__link:hover::before {
   content: "";
   opacity: 0.8;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
   cursor: url("../../../images/Pointer.png"), pointer;
 }
