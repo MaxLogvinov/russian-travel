@@ -2,8 +2,21 @@
   position: relative;
   background-image: url("../../../images/__background.jpg");
   background-size: cover;
-  width: 100%;
+  max-width: 1184px;
   min-height: 740px;
   display: flex;
   align-items: center;
+}
+
+@media (max-width: 1279px) {
+  .cover__overlay {
+    min-height: 62.5vw;
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .cover__overlay {
+    max-width: 320px;
+  }
 }

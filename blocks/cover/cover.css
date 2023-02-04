@@ -4,15 +4,3 @@
   width: 100%;
   position: relative;
 }
-
-@media (max-width: 1279px) {
-  .cover {
-    min-height: 62.5vw;
-  }
-}
-
-@media (max-width: 767px) {
-  .cover {
-    max-width: 320px;
-  }
-}
