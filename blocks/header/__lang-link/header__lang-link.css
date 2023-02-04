@@ -8,6 +8,7 @@
 
 .header__lang-link:hover {
   cursor: url("../../../images/Pointer.png"), pointer;
+  opacity: 0.8;
 }
 
 .header__lang-link_active {

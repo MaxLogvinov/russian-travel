@@ -9,6 +9,7 @@
 
 .places__link:hover {
   cursor: url("../../../images/Pointer.png"), pointer;
+  opacity: 0.8;
 }
 
 @media (max-width: 768px) {
