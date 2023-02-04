@@ -2,10 +2,11 @@
   position: relative;
   background-image: url("../../../images/__background.jpg");
   background-size: cover;
-  max-width: 1184px;
   min-height: 740px;
   display: flex;
   align-items: center;
+  margin: 0 auto;
+  max-width: 92.5%;
 }
 
 @media (max-width: 1279px) {

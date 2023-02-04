@@ -3,6 +3,8 @@
   display: grid;
   grid-template: repeat(3, 1fr) / repeat(4, 1fr);
   gap: 16px;
+  margin: 0 auto;
+  max-width: 92.6%;
 }
 
 @media (max-width: 1279px) {
