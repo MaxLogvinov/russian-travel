@@ -7,7 +7,7 @@
 @media (max-width: 1023px) {
   .intro__list {
     width: 93.8%;
-    padding: 31px 16px 92px 24px;
+    padding: 31px 16px 90px 24px;
   }
 }
 
@@ -15,6 +15,6 @@
   .intro__list {
     padding-bottom: 64px;
     padding-left: 16px;
-    padding-right: 16px;
+    padding-right: 0;
   }
 }
