@@ -1,3 +1,9 @@
 .cover__overlay {
   position: relative;
+  background-image: url("../../../images/__background.jpg");
+  background-size: cover;
+  width: 100%;
+  min-height: 740px;
+  display: flex;
+  align-items: center;
 }

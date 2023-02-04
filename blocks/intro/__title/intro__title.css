@@ -1,4 +1,4 @@
-.header-lead__title {
+.intro__title {
   margin: 0;
   font-weight: 900;
   font-size: 54px;
@@ -9,13 +9,13 @@
 }
 
 @media (max-width: 1023px) {
-  .header-lead__title {
+  .intro__title {
     padding: 87px 0 40px 24px;
   }
 }
 
 @media (max-width: 767px) {
-  .header-lead__title {
+  .intro__title {
     font-size: 32px;
     line-height: 35px;
     padding: 64px 16px 40px 16px;

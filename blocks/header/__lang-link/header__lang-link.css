@@ -4,10 +4,13 @@
   line-height: 28px;
   color: #ffffff;
   width: 29px;
-  height: 28px;
 }
 
-.header__lang-link:nth-child(2) {
+.header__lang-link:hover {
+  cursor: url("../../../images/Pointer.png"), pointer;
+}
+
+.header__lang-link_active {
   text-decoration: none;
   padding-left: 14px;
 }

@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+https://maxlogvinov.github.io/russian-travel/
+
 Используемые технологии:
 
 - HTML5

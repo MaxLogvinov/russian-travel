@@ -1,9 +1,0 @@
-.header-lead {
-  width: 690px;
-}
-
-@media (max-width: 1023px) {
-  .header-lead {
-    width: 93.8%;
-  }
-}
