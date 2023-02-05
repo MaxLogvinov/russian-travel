@@ -19,7 +19,8 @@
 
 @media (max-width: 767px) {
   .header__lang {
-    padding-right: 16px;
+    padding-right: 9px;
     padding-top: 14px;
+    gap: 11px;
   }
 }
